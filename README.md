@@ -6,9 +6,7 @@ The script uses the Python Wiser Heating api from Angelo Santagata
 <https://github.com/asantaga/wiserheatingapi>
 
 Since I have two independent boilers at home, the script supports
-parameter files with multiple heat hubs. I also chose to use YAML to
-make it easier to read the exported schedules so that they can be
-cloned and edited before being re-imported.
+parameter files with multiple heat hubs.
 
 ## Installation
 
